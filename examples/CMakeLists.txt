@@ -1,3 +1,5 @@
 add_subdirectory(Calc)
 add_subdirectory(CalcQt)
 add_subdirectory(FeatureShowcase)
+add_subdirectory(HelloBDD)
+add_subdirectory(RPNCalculator)
